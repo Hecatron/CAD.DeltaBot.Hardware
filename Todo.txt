@@ -1,0 +1,8 @@
+
+  * http://www.instructables.com/id/Make-a-3D-Printer-with-a-CNC-router/?ALLSTEPS
+  * http://openbuilds.org/builds/v-slot-and-mdf-deltabot.1910/
+  * http://reprap.org/wiki/Rostock
+ 
+
+ Script for
+ git pull && git submodule init && git submodule update && git submodule status
